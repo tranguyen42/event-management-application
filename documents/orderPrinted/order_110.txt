@@ -1,0 +1,15 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 5
+Order nr.: 110 on 12/28/2018 at 11:00 PM
+Customer: Brenden Verhoosel
+==========================================
+Description                          Price
+==========================================
+ 1 x sandwich wasa                    2.50
+
+
+TOTAL TO PAY:                      €  2.50
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

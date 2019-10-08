@@ -1,0 +1,17 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 1
+Order nr.: 103 12/26/2018 12:55:47 PM
+Cashier: Nidhi Sharma
+Customer: Brenden Verhoosel
+==========================================
+Description                          Price
+==========================================
+ 2 x kroket                           5.00
+ 1 x hamburger                        7.95
+
+
+TOTAL TO PAY:                      € 12.95
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

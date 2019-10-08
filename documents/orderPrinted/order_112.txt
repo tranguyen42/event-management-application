@@ -1,0 +1,21 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 4
+Order nr.: 112 on 12/28/2018 at 11:09 PM
+Cashier: Nidhi Sharma
+Customer: Brenden Verhoosel
+==========================================
+Description                          Price
+==========================================
+ 1 x cola                             2.00
+ 1 x cola light                       2.50
+ 1 x cola zero                        2.00
+ 1 x hamburger                        7.95
+ 1 x french fry                       5.50
+ 1 x t-shirt                         49.95
+
+
+TOTAL TO PAY:                      € 69.90
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

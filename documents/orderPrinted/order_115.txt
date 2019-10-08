@@ -1,0 +1,15 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 5
+Order nr.: 115 on 1/10/2019 at 2:51 PM
+Customer: Brenden Verhoosel
+==========================================
+Description                          Price
+==========================================
+ 1 x cola zero                        2.00
+
+
+TOTAL TO PAY:                      €  2.00
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

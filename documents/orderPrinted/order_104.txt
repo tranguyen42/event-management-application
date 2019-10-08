@@ -1,0 +1,16 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 1
+Order nr.: 104 12/26/2018 1:03:44 PM
+Cashier: Nidhi Sharma
+Customer: Brenden Verhoosel
+==========================================
+Description                          Price
+==========================================
+ 3 x cola                             6.00
+
+
+TOTAL TO PAY:                      €  6.00
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

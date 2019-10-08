@@ -1,0 +1,19 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 1
+Order nr.: 117 on 1/23/2019 at 11:26 AM
+Cashier: Nidhi Sharma
+Customer: Nguyen Tran
+==========================================
+Description                          Price
+==========================================
+ 1 x cola                             2.50
+ 1 x hamburger                        7.95
+ 1 x french fry                       5.50
+ 1 x mug                             10.00
+
+
+TOTAL TO PAY:                      € 25.95
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!

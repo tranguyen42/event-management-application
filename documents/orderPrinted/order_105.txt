@@ -1,0 +1,19 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 2
+Order nr.: 105 12/26/2018 1:06:19 PM
+Cashier: Nidhi Sharma
+Customer: Brenden Verhoosel
+==========================================
+Description                    Renting Fee
+==========================================
+ 1 x tent                            10.95
+ 1 x headphone                        7.50
+
+
+TOTAL TO PAY:                      € 18.45
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!
+
+Please return your borrowings before leaving the event

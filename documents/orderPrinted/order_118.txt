@@ -1,0 +1,19 @@
+         Latitude Music Festival          
+------------------------------------------
+Shop id: 2
+Order nr.: 118 on 1/23/2019 at 11:27 AM
+Cashier: Nidhi Sharma
+Customer: Nguyen Tran
+==========================================
+Description                    Renting Fee
+==========================================
+ 1 x tent                            10.95
+ 3 x camera                          90.00
+
+
+TOTAL TO PAY:                      €100.95
+
+-------------------------------------------
+Thank you for your visit! Have a nice day!
+
+Please return your borrowings before leaving the event

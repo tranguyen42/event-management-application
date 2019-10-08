@@ -1,0 +1,10 @@
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\LatitudeClassLibrary.dll.config
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\LatitudeClassLibrary.dll
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\LatitudeClassLibrary.pdb
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\Google.Protobuf.dll
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\MySql.Data.dll
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\Google.Protobuf.xml
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\bin\Release\MySql.Data.xml
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\obj\Release\LatitudeClassLibrary.csprojResolveAssemblyReference.cache
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\obj\Release\LatitudeClassLibrary.dll
+D:\FONTYS\PROP\git\prop\latittude_CSharp\LatitudeClassLibrary\obj\Release\LatitudeClassLibrary.pdb

@@ -1,0 +1,51 @@
+	LATITUDE MUSIC EVENT REPORT
+----------------------------------------------------------------------------
+* Report time: 1/13/2019 10:15:24 PM
+* Event time: 1/3/2019 - 1/5/2019
+* Maximum number of visitors: 50
+* Total visitors: 15
+* Total checked-in visitors: 7
+* Total revenue: €1,391.30
+----------------------------------------------------------------------------
+		Revenue breakdown:
+----------------------------------------------------------------------------
+	1. From selling tickets: €645.00
+		- regular tickets: €120.00
+		- VIP tickets: €75.00
+		- group tickets: €450.00
+
+	2. From selling & lending items: €276.30
+		- selling shops: €96.85
+			+ selling shop id 1: €26.95
+			+ selling shop id 4: €69.90
+		- lending shops: €170.45
+			+ lending shop id 2: €170.45
+			+ lending shop id 3: €0.00
+		- vending machines: €9.00
+			+ vending machine id 5: €9.00
+
+	3. From camping spots: €320.00
+		- camping spot id A1: €120.00
+		- camping spot id A2: €120.00
+		- camping spot id A3: €0.00
+		- camping spot id B1: €30.00
+		- camping spot id B2: €0.00
+		- camping spot id C1: €50.00
+
+	4. From fine paid by visitors: €150.00
+----------------------------------------------------------------------------
+		Visitors' balance: 
+----------------------------------------------------------------------------
+Ticket	Type	Top up	 Exp.*	 Fine**	Balance
+----------------------------------------------------------------------------
+123456	vip	 220.00	   0.00	   0.00	 220.00 
+125062	group	 610.00	 276.30	 150.00	 183.70 
+252529	group	 165.95	   0.00	   0.00	 165.95 
+295950	reg.	 277.00	   0.00	   0.00	 277.00 
+698680	reg.	   0.00	   0.00	   0.00	   0.00 
+----------------------------------------------------------------------------
+TOTAL:		1,272.95	 276.30	 150.00	 846.65
+----------------------------------------------------------------------------
+* Exp.: Total expenditure on buying & renting event items
+(exclude spending on ticket & camping spot)
+** Fine: Fine paid for lost/ damanged borrowing(s)
