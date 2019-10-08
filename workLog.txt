@@ -1,0 +1,97 @@
+
+21 Sep 2018:
+	+ achievement: Complete ERD diagram (version 1)
+
+22 Sep 2018:
+	+ achievement: Complete web flowchart for setup document
+
+23 Sep 2018:
+	+ achievement: Complete use case diagram for setup document
+
+7 Oct 2018:
+	+ achievement: Complete use case diagram (version 2) for setup document (incorporate advice from mentor)
+		       Complete ERD diagram (version 2) for setup document (incorporate advice from mentor)
+
+5 Nov 2018:
+	+ achievement: Complete checkout & contact page for web (HTML & some CSS)
+
+28 Nov 2018:
+	+ achievement: New GUI: EntranceCheck & VendingMachine form done
+
+30 Nov 2018:
+	+ achievement: New GUI: ServicePoint (selling & lending) done. EventItem added to test
+
+2 Dec 2018:
+	+ achievement: New GUI: Complete the whole form for application
+
+6 Dec 2018:
+	+ achievement: Complete Class diagram for application
+		       Complete ERD diagram (version 3) - simplify diagram
+		       Create database design on PHPMyAdmin
+
+7 - 10 Dec 2018: (30 hours)
+	+ achievement:
+		1. All classes were implemented (except logFileReader & DataHelper)
+		2. Redesign form (font bigger, add color & background)
+		3. data added to test app (shop, employee, event item)
+		4. Buttons Add & Remove for ordering item in shop work properly
+		5. Customized GUI according to emp level & workplace
+	+ to do:
+		1. Add testing data for visitors
+		2. Add logFileReader & DataHelper class
+		3. Continue working on Form
+	Link to testing data: https://docs.google.com/spreadsheets/d/1XjYhv6QksuP7Rbf-tigCUdHHXgHhVEY4PUt4Ya1UKuU/edit?usp=sharing)
+
+
+11 - 18 Dec 2018: (7 hrs + 10hrs + 8 hrs + 3.5 hrs + 3 hrs + 4 hrs + 3hrs + 5hrs = 43.5 hrs)
+	+ achievement:
+		1. Refactor project (move all classes to LatitudeClassLibrary, add reference to ClassLibrary for EventManagement & VMachine project)
+		2. Function form Entrance check (check in/out, assign RFID, lost RFID, new visitor, check camping reservation)
+		3. Redesign Entrance check & Employee management form
+		4. Debug & rewrite some functions in class Person, Visitor, CampingSpot
+		5. Test form Entrance check (work properly - 14 Dec 2018)
+		6. Function form Service Point
+		7. Write functions to export ticket, sale & renting receipt
+		8. Test form Service Point (work properly - 16 Dec 2018)
+		9. Code up class LogFile.cs
+		10. Implement logFileWatcher (detect new log file added, read new file then move that file to ReadLogFiles folder)
+		11. Implement function to read all logFiles in logFiles folder at the start-up of application
+		12. Function form UpdateStock (existing item + new item)
+		13. Function form StockDetail (overview about event items, sorting...)
+		14. Test form Stock Managment (work properly - 18 Dec 2018)
+		15. Function form Update existing emp info, btnShowAllEmp, show emp by level
+		16. Complete the whole application (function properly - 18 Dec 2018). Still need optimizing
+	
+19 - 22 Dec 2018: 2 hrs
+	+ achievement: 
+		1. Add textbox showing price when pp buying ticket at gate & reserve camp at camping area (work properly)
+		2. Show visitors' balance at service point 
+
+23 Dec 2018: 3hrs + 4 hrs
+	+ achievement	
+		1. Connect to database, get list of items, employees, camping spots, visitors, shops + remove testing data in form
+		2. Code up & test function to update database after check in, check out, adding new visitor, lost RFID, reserve camping spot	
+
+26 Dec 2018: 12hrs
+	+ achievement
+		1. Code up & test function to update database after adding new emp, updating emp info, reading log file & updating balance
+		2. Code up & test function to update database after adding new sale order, adding new renting order, returning items, paying fine
+		3. Code up & test function to update database after changing item info, adding new item
+		4. Code up & test function to retrieve data for event report (info about visitor's topup, balance, expenditure updated)
+		5. Code up & test function to get quantity sold/ rented times per item, sort items
+
+28 Dec 2018: 3hrs
+	+ achievement:
+		1. Function VM form 
+
+29 Dec 2018: 2.5hrs
+	+ achievement:
+		2. Update camping_spot table in database after reserving camp
+				
+2 Jan 2018: 1 hr
+	+ achievement:
+		1. Clean up codes & test application
+	
+11 Jan 2018: 1 hr
+	+ achievement:
+		1. Update database design in set-up document
